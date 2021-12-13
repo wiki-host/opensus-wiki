@@ -1,6 +1,6 @@
 # Git instructions
 
-We would like to keep the history of this repository nice. To do this, I'll start with the basics of how to clone the repository, then I'll talk about making pull requests.
+We would like to keep the history of the OpenSuspect repository nice. To do this, I'll start with the basics of how to clone the repository, then I'll talk about making pull requests.
 
 To clone the repository, you should first fork it to your own user, through github. You will also need [git lfs](https://github.com/git-lfs/git-lfs) installed. Once you have that, then clone the repository to your machine with the clone button on github. If the image files are just one line of text, and cannot be read by godot, then you go not have git lfs installed properly.
 
